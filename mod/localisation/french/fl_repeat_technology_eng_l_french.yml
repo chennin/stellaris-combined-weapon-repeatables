@@ -1,0 +1,8 @@
+﻿# Combined Repeatable Techs
+l_french:
+  fl_repeatable_improved_military_station_damage_health_desc:0 "Lier les uns aux autres les systèmes d'armes de façon à faire feu par salves décalées augmente progressivement les dégâts infligés par les stations militaires.\n\n\nLes couches de blindage supplémentaires de la structure elle-même améliorent la résistance des stations militaires.\n\n"
+  fl_repeatable_improved_military_station_damage_health:0 "Tirs synchronisés + Couches de noyaux fortifiées"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "À l'aide d'une réaction chimique étroitement contrôlée par des microprocesseurs de cartes-missiles, la détonation des ogives est adaptée aux conditions locales pour en optimiser les effets.\n\n\nLes avancées réalisées dans le domaine de la miniaturisation permettent de charger et de décharger rapidement les charges offensives propulsées par roquettes.\n\n"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "Contrôle du rendement thermodynamique + Amorceurs miniaturisés"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "Des balles ultra denses peuvent perforer les boucliers projetés les plus résistants.\n\n\nDe petites avancées techniques combinées aux routines de bord améliorées pour manipuler les munitions permettent d'optimiser considérablement la cadence de tir.\n\n"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "Munitions haute densité + Efficacité de chargeur"

@@ -1,0 +1,4 @@
+﻿# Combined Repeatable Techs
+l_simp_chinese:
+  fl_repeatable_weapon_type_energy_damage_fire_rate_desc:0 "完善激光武器的发射节奏是一个可以让任何行星的工程精英忙几个世纪的任务。\n可以定期冷却表面的新科技，提高了我们的武器系统的稳定性和效率。让它们在使用的时候不至于炸掉我们的舰船。"
+  fl_repeatable_weapon_type_energy_damage_fire_rate:0 "聚焦阵列 + 快速冷却剂"

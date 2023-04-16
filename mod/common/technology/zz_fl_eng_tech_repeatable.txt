@@ -1,0 +1,225 @@
+# Combined Repeatable Techs
+tech_repeatable_improved_military_station_damage = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { voidcraft }
+	levels = -1
+	prerequisites = { tech_defense_platform_hull_1 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = { factor = 1.0 }
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = { shipclass_military_station_damage_mult = 0.1 }
+	potential = { always = no }
+}
+
+tech_repeatable_improved_military_station_health = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { voidcraft }
+	levels = -1
+	prerequisites = { tech_defense_platform_hull_1 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = { factor = 1.0 }
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = { shipclass_military_station_hull_mult = 0.1 }
+	potential = { always = no }
+}
+
+tech_repeatable_weapon_type_explosive_damage = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { propulsion }
+	ai_update_type = military
+	levels = -1
+	prerequisites = { tech_missiles_3 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = {
+		factor = 1.0
+		modifier = {
+			factor = @favored_weapon_ai_tech_factor
+			is_preferred_weapons = weapon_type_explosive
+		}
+		modifier = {
+			factor = @disfavored_weapon_ai_tech_factor
+			NOT = { is_preferred_weapons = weapon_type_explosive }
+		}
+	}
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = { weapon_type_explosive_weapon_damage_mult = 0.05 }
+	potential = { always = no }
+}
+
+tech_repeatable_weapon_type_explosive_fire_rate = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { propulsion }
+	ai_update_type = military
+	levels = -1
+	prerequisites = { tech_missiles_3 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = {
+		factor = 1.0
+		modifier = {
+			factor = @favored_weapon_ai_tech_factor
+			is_preferred_weapons = weapon_type_explosive
+		}
+		modifier = {
+			factor = @disfavored_weapon_ai_tech_factor
+			NOT = { is_preferred_weapons = weapon_type_explosive }
+		}
+	}
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = { weapon_type_explosive_weapon_fire_rate_mult = 0.05 }
+	potential = { always = no }
+}
+
+tech_repeatable_weapon_type_kinetic_damage = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { propulsion }
+	ai_update_type = military
+	levels = -1
+	prerequisites = { tech_mass_drivers_3 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = {
+		factor = 1.0
+		modifier = {
+			factor = @favored_weapon_ai_tech_factor
+			is_preferred_weapons = weapon_type_kinetic
+		}
+		modifier = {
+			factor = @disfavored_weapon_ai_tech_factor
+			NOT = { is_preferred_weapons = weapon_type_kinetic }
+		}
+	}
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = { weapon_type_kinetic_weapon_damage_mult = 0.05 }
+	potential = { always = no }
+}
+
+tech_repeatable_weapon_type_kinetic_fire_rate = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { propulsion }
+	ai_update_type = military
+	levels = -1
+	prerequisites = { tech_mass_drivers_3 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = {
+		factor = 1.0
+		modifier = {
+			factor = @favored_weapon_ai_tech_factor
+			is_preferred_weapons = weapon_type_kinetic
+		}
+		modifier = {
+			factor = @disfavored_weapon_ai_tech_factor
+			NOT = { is_preferred_weapons = weapon_type_kinetic }
+		}
+	}
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = { weapon_type_kinetic_weapon_fire_rate_mult = 0.05 }
+	potential = { always = no }
+}
+
+fl_repeatable_improved_military_station_damage_health = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { voidcraft }
+	levels = -1
+	prerequisites = { tech_defense_platform_hull_1 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = { factor = 1.0 }
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = {
+		shipclass_military_station_damage_mult = 0.05
+		shipclass_military_station_hull_mult = 0.05
+	}
+}
+
+fl_repeatable_weapon_type_explosive_damage_fire_rate = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { propulsion }
+	ai_update_type = military
+	levels = -1
+	prerequisites = { tech_missiles_3 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = {
+		factor = 1.0
+		modifier = {
+			factor = @favored_weapon_ai_tech_factor
+			is_preferred_weapons = weapon_type_explosive
+		}
+		modifier = {
+			factor = @disfavored_weapon_ai_tech_factor
+			NOT = { is_preferred_weapons = weapon_type_explosive }
+		}
+	}
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = {
+		weapon_type_explosive_weapon_damage_mult = 0.025
+		weapon_type_explosive_weapon_fire_rate_mult = 0.025
+	}
+}
+
+fl_repeatable_weapon_type_kinetic_damage_fire_rate = {
+	area = engineering
+	cost = @repeatableTechBaseCost
+	cost_per_level = @repeatableTechLevelCost
+	tier = @repeatableTechTier
+	category = { propulsion }
+	ai_update_type = military
+	levels = -1
+	prerequisites = { tech_mass_drivers_3 }
+	weight = @repeatableTechWeight
+	weight_modifier = { factor = @repatableTechFactor }
+	ai_weight = {
+		factor = 1.0
+		modifier = {
+			factor = @favored_weapon_ai_tech_factor
+			is_preferred_weapons = weapon_type_kinetic
+		}
+		modifier = {
+			factor = @disfavored_weapon_ai_tech_factor
+			NOT = { is_preferred_weapons = weapon_type_kinetic }
+		}
+	}
+	weight_groups = { repeatable }
+	mod_weight_if_group_picked = { repeatable = 0.01 }
+	modifier = {
+		weapon_type_kinetic_weapon_damage_mult = 0.025
+		weapon_type_kinetic_weapon_fire_rate_mult = 0.025
+	}
+}

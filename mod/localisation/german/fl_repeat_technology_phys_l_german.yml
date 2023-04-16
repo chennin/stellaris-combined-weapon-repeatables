@@ -1,0 +1,4 @@
+﻿# Combined Repeatable Techs
+l_german:
+  fl_repeatable_weapon_type_energy_damage_fire_rate_desc:0 "Die Perfektionierung der Kadenz von Laserwaffen ist eine Aufgabe, die die Maschinenbau-Elite jedes Planeten Jahrhunderte lang intensiv beschäftigen würde.\nNeue Entwicklungen im Bereich der technologischen Kühlung gleichmäßiger Oberflächen verbessern die Stabilität und Effizienz unserer Waffensysteme. Dies verhindert, dass sie die Schiffe vernichten, auf denen sie installiert sind."
+  fl_repeatable_weapon_type_energy_damage_fire_rate:0 "Bündelungsmatrizen + Flash-Kühlmittel"

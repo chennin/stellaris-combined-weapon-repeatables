@@ -1,0 +1,6 @@
+﻿# Combined Repeatable Techs
+l_japanese:
+  fl_repeatable_improved_army_damage_health_desc:0 "地上部隊に標準的薬物を繰り返し投与すると、近接戦闘における効果が上がる。\n痛覚受容体の注意深い調整により、 兵士は以前なら離脱していたような傷を負っても戦える。"
+  fl_repeatable_improved_army_damage_health:0 "攻撃性調整 + 痛覚鈍化"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "敵機の位置データに関する戦闘機パイロットの処理速度と反応速度を上げ、 軍用機を食物連鎖の数段階上に押し上げる。\n過去の操縦データを収集・分析することで、 パイロットの訓練方法を飛躍的に向上させることができた。 すべての行動が従来のパイロットよりも速くなるだろう。"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "シナプス迎撃機 + 反復パイロット訓練"

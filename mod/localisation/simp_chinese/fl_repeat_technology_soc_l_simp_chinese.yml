@@ -1,0 +1,6 @@
+﻿# Combined Repeatable Techs
+l_simp_chinese:
+  fl_repeatable_improved_army_damage_health_desc:0 "让地面部队学习标准的环境生存法，可以让他们在正面作战时更强大。\n小心地调整疼痛接收器，可以让士兵在受到致命伤后仍能坚持战斗。"
+  fl_repeatable_improved_army_damage_health:0 "主动适应 + 神经抑制器"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "提高战斗机飞行员处理敌人位置信息并做出反应的速度，提高战斗机在战场食物链中的位置。\n通过收集和分析曾来过此地的飞行员的表现数据，我们能够指数型地改善我们训练飞行员的方法。每一个来过此地受训的人都会变得更加迅速。"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "突触拦截器 + 迭代式飞行员培训"

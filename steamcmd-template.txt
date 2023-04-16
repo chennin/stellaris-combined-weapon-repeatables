@@ -1,0 +1,9 @@
+"workshopitem"
+{
+	"appid"		"281990"
+	"contentfolder"		"FULLMODPATH/mod"
+	"previewfile"		"FULLMODPATH/mod/thumbnail.png"
+	"visibility"		"2"
+	"title"		"MODNAME"
+	"description"		"New description."
+}

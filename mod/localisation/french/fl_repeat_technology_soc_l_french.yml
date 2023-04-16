@@ -1,0 +1,6 @@
+﻿# Combined Repeatable Techs
+l_french:
+  fl_repeatable_improved_army_damage_health_desc:0 "Réitérer le régime de conditionnement standard des troupes au sol les rend plus efficaces en situation de combat direct.\n\n\nL'ajustement précis des récepteurs de douleur permet aux soldats de se battre malgré des blessures précédemment considérées comme débilitantes.\n\n"
+  fl_repeatable_improved_army_damage_health:0 "Conditionnement agressif + Tempérances nerveuses"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "Augmenter la vitesse à laquelle les pilotes de chasse traitent et agissent sur les données de positionnement de l'ennemi élève les vaisseaux de combat au sein de la chaîne alimentaire.\n\n\nEn collectant et analysant les données de performance des pilotes passés, il est aisé d'améliorer considérablement les méthodes de formation et d'entraînement. Chaque nouvelle génération sera plus rapide que la précédente."
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "Intercepteurs synaptiques + Formation itérative au pilotage"

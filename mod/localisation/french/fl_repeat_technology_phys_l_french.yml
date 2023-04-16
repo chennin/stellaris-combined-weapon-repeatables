@@ -1,0 +1,4 @@
+﻿# Combined Repeatable Techs
+l_french:
+  fl_repeatable_weapon_type_energy_damage_fire_rate_desc:0 "Optimiser la cadence de tir des armes laser pourrait occuper l'élite du génie de toutes les planètes pendant des siècles.\n\n\nDe nouveaux développements en matière de refroidissement technique apparaissent régulièrement, améliorant la stabilité et l'efficacité de nos systèmes d'armes sans que ces derniers explosent sur les vaisseaux qui les transportent.\n\n"
+  fl_repeatable_weapon_type_energy_damage_fire_rate:0 "Réseau de capteurs focalisés + Refroidisseur éclair"

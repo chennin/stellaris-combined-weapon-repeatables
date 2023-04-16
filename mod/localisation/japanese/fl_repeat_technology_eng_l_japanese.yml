@@ -1,0 +1,8 @@
+﻿# Combined Repeatable Techs
+l_japanese:
+  fl_repeatable_improved_military_station_damage_health_desc:0 "時差斉射を行うクロスリンク武器システムにより、 軍事ステーションのダメージ出力が時間とともに向上する。\n構造物の内部に幾層もの装甲を追加して、 軍事ステーションの耐久性を向上させる。"
+  fl_repeatable_improved_military_station_damage_health:0 "同期発砲パターン + 強化されたコア層"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "ミサイルに搭載したマイクロプロセッサーで化学反応を厳密にコントロールし、 着弾時の状況に応じて最大限の威力を発揮できるよう調整を行う。\n小型化により、 ロケット弾頭の迅速な装填と発射が可能になる。"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "熱量コントロール + 点火器の小型化"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "超高密度の弾は最強のシールドすら貫通する。\n小さな技術的進歩と船内での弾薬取り扱い手順改良の組み合わせにより、 連射レートが顕著に向上する。"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "高密度砲弾 + 装填の効率化"

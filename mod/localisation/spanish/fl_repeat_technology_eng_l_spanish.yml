@@ -1,0 +1,8 @@
+﻿# Combined Repeatable Techs
+l_spanish:
+  fl_repeatable_improved_military_station_damage_health_desc:0 "Vincular los sistemas de armas para disparar andanadas escalonadas mejora con el paso del tiempo el daño infligido por las estaciones militares.\n\n\nLas capas de blindaje adicional dentro de la propia estructura mejoran la resistencia de las estaciones militares.\n\n"
+  fl_repeatable_improved_military_station_damage_health:0 "Pautas de disparo sincronizado + Estratos de núcleos fortificados"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "Unos microprocesadores en el misil controlan la reacción química de las detonaciones de las ojivas para maximizar el efecto en el momento del impacto según las condiciones locales.\n\n\nLos avances en miniaturización permiten cargar y disparar misiles más deprisa.\n\n"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "Control de rendimiento termodinámico + Preespoletas miniaturizadas"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "Los proyectiles ultradensos pueden atravesar incluso fuertes escudos de energía.\n\n\nLos avances técnicos menores se combinan con rutinas de nave mejoradas de gestión de munición para aumentar significativamente la cadencia de fuego.\n\n"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "Munición de gran densidad + Eficiencia de cargadores"

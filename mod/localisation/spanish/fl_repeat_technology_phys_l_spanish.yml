@@ -1,0 +1,4 @@
+﻿# Combined Repeatable Techs
+l_spanish:
+  fl_repeatable_weapon_type_energy_damage_fire_rate_desc:0 "Perfeccionar la cadencia de fuego de las armas láser es una tarea que podría mantener ocupados a los ingenieros de élite de cualquier planeta durante siglos.\n\n\nContinuamente aparecen novedades en la tecnología de enfriamiento, que mejora la estabilidad y eficacia de nuestros sistemas de armas e impide que estallen en las naves que los llevan.\n\n"
+  fl_repeatable_weapon_type_energy_damage_fire_rate:0 "Concentradores + Refrigerante superveloz"

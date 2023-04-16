@@ -1,0 +1,6 @@
+﻿# Combined Repeatable Techs
+l_german:
+  fl_repeatable_improved_army_damage_health_desc:0 "Das Wiederholen der Standardausbildung für Bodentruppen hat bewiesen, dass sie dadurch bei direkten Kampfhandlungen effektiver kämpfen.\nDie vorsichtige Feinabstimmung von Schmerzrezeptoren ermöglicht es Soldaten, trotz Verletzungen, die sie früher gelähmt hätten, weiterzukämpfen."
+  fl_repeatable_improved_army_damage_health:0 "Aggressive Konditionierung + Nervendämpfer"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "Indem wir dafür sorgen, dass Jagdpiloten feindliche Positionierungsdaten schneller verarbeiten und darauf reagieren können, wird die Rolle von Kampfschiffen auf dem Schlachtfeld aufgewertet.\nWir haben die Leistungsdaten vorheriger Piloten gesammelt und analysiert und so unsere Ausbildungsmethoden für Piloten exponentiell verbessern können. Jeder neue Pilot wird schneller sein als der vorherige."
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "Synapsenabfänger + Iterative Pilotenausbildung"

@@ -1,0 +1,8 @@
+﻿# Combined Repeatable Techs
+l_german:
+  fl_repeatable_improved_military_station_damage_health_desc:0 "Die Vernetzung von Waffensystemen zum Feuern in gestaffelten Volleys verbessert mit der Zeit die tatsächliche Schadenswirkung von Militärstationen.\nZusätzliche Panzerungsschichten im Inneren von Militärstationen erhöhen deren Widerstandsfähigkeit."
+  fl_repeatable_improved_military_station_damage_health:0 "Synchronisierte Beschussmuster + Verstärkte Kernschichten"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "Wenn die chemischen Reaktionen von Sprengkopfdetonationen von Onboard-Mikroprozessoren der Raketen präzise kontrolliert werden, können sie für maximale Trefferwirkung auf die lokalen Bedingungen beim Einschlagszeitpunkt abgestimmt werden.\nFortschritte im Feld der Miniaturisierung ermöglichen das schnelle Laden und Verschießen von raketengetriebenen Sprengladungen."
+  fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "Thermodynamische Feldkontrolle + Miniaturisierte Vorzünder"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "Ultra-dichte Geschosse können selbst die stärksten Schutzschilde durchdringen.\nGeringfügige technische Fortschritte sorgen in Kombination mit verbesserten Gefechtsroutinen zum Umgang mit Munition für eine spürbare Beschleunigung der Feuergeschwindigkeit."
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "Hochdichte Munition + Ladereffizienz"

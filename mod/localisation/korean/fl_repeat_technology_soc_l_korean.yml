@@ -1,0 +1,6 @@
+﻿# Combined Repeatable Techs
+l_korean:
+  fl_repeatable_improved_army_damage_health_desc:0 "표준 훈련 절차의 반복으로 직접적인 전투에서 지상 병력의 전투 능력을 더욱 강화할 수 있다는 사실이 입증되었습니다.\n고통 수용체를 세밀하게 조율하면, 이전에는 심각하다고 여겨졌을 만한 부상을 입은 병사도 계속해서 싸울 수 있습니다."
+  fl_repeatable_improved_army_damage_health:0 "공격적 훈련 + 신경 완충 장치"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "전투기 조종사가 적의 위치 정보를 더욱 빨리 처리하고 대응할 수 있게 해, 공격기가 전쟁 속 먹이 사슬에서 몇 단계 우위를 점할 수 있게 됩니다.\n선대 조종사들의 수행 데이터를 수집하고 분석해, 조종사 훈련 방법을 크게 개선했습니다. 지금부터 배출되는 조종사는 기존의 조종사들보다 더욱 빨라질 것입니다."
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "시냅스 요격기 + 반복적인 조종 훈련"

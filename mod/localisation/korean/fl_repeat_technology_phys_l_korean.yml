@@ -1,0 +1,4 @@
+﻿# Combined Repeatable Techs
+l_korean:
+  fl_repeatable_weapon_type_energy_damage_fire_rate_desc:0 "레이저 무기의 발사 리듬을 완벽하게 다듬는 일은, 뛰어난 공학자들을 투입하더라도 수 세기는 필요한 작업입니다.\n장비 냉각 분야에서는 꾸준히 신기술이 개발되어, 무기 체계의 안정성과 효율성을 높이고 무기를 탑재한 함선이 폭발하는 일이 없도록 미연에 방지하고 있습니다."
+  fl_repeatable_weapon_type_energy_damage_fire_rate:0 "사격 집중 배열 + 순간 냉각제"

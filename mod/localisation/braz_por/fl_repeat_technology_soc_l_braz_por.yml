@@ -1,0 +1,6 @@
+﻿# Combined Repeatable Techs
+l_braz_por:
+  fl_repeatable_improved_army_damage_health_desc:0 "Iterar o regime de condicionamento padrão de tropas terrestres fez com que elas ficassem mais eficazes no combate direto.\n\n\nUm ajuste cuidadoso de receptores de dor permite aos soldados lutar mesmo portando o que anteriormente seriam machucados debilitadores.\n\n"
+  fl_repeatable_improved_army_damage_health:0 "Condicionamento Agressivo + Amortecedores de Nervos"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "Aumentar a velocidade com a qual os pilotos de caça conseguem processar e agir a partir dos dados de posicionamento inimigos coloca as naves de ataque alguns passos acima na cadeia alimentar.\n\n\nAo coletarmos e analisarmos os dados de desempenho dos pilotos de antes, nós melhoramos cada vez mais os nossos métodos de treinamento. Cada piloto será mais rápido do que o seu antecessor."
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "Interceptadores de Sinapse + Treinamento Iterativo de Pilotos"

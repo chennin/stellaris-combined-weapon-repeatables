@@ -1,0 +1,6 @@
+﻿# Combined Repeatable Techs
+l_spanish:
+  fl_repeatable_improved_army_damage_health_desc:0 "Repetir el régimen de condicionamiento estándar de las tropas terrestres ha demostrado hacerlas más efectivas en el combate directo.\n\n\nAl ajustar con cuidado los receptores de dolor, los soldados pueden seguir luchando a pesar de recibir heridas debilitantes.\n\n"
+  fl_repeatable_improved_army_damage_health:0 "Condicionamiento agresivo + Depresores nerviosos"
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "Aumentar la velocidad a la que los pilotos de los cazas procesan y actúan sobre los datos de posición del enemigo otorga considerables ventajas de combate.\n\n\nAl recopilar y analizar los datos de rendimiento de los pilotos que nos precedieron, hemos mejorado exponencialmente nuestros métodos de entrenamiento para pilotos. Cada uno será más rápido que el anterior."
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "Interceptores de sinapsis + Entrenamiento de piloto iterativo"

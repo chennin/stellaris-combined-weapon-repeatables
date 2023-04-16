@@ -1,0 +1,8 @@
+﻿# Combined Repeatable Techs
+l_english:
+  fl_repeatable_improved_military_station_damage_health_desc:0 "Cross-linking weapon systems to fire in staggered volleys improves the actual damage output of Military Stations over time.\nAdditional layers of armor plating within the structure itself improves the resilience of Military Stations."
+  fl_repeatable_improved_military_station_damage_health:0 "Synchronized Firing Patterns + Fortified Core Layers"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "With the chemical reaction tightly controlled by missile-board microprocessors, warhead detonations can be tuned for maximum effect for local conditions at the time of impact.\nAdvances in miniaturization allow for more rapid loading and discharging of rocket-propelled payloads."
+  fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "Thermodynamic Yield Control + Miniaturized Pre-Igniters"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "Ultra-dense slugs can punch through even the strongest of projected shields.\nMinor technical advances combine with improved shipboard routines for handling munitions to provide a noticeable boost in fire rate."
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "High-Density Munitions + Loader Efficiency"

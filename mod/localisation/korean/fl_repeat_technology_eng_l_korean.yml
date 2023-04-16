@@ -1,0 +1,8 @@
+﻿# Combined Repeatable Techs
+l_korean:
+  fl_repeatable_improved_military_station_damage_health_desc:0 "무기 체계를 상호 연동해 막대한 규모의 일제 사격을 가해, 군용 기지의 실질적 피해량을 개선할 수 있습니다.\n장갑 판금 구조 내부에 추가 장갑층을 적용해, 군용 기지의 생존력이 개선됩니다."
+  fl_repeatable_improved_military_station_damage_health:0 "동기화 사격 패턴 + 강화 코어층"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "미사일 자체 마이크로프로세서로 화학적 반응을 면밀히 통제해, 명중 시 상황에 따라 탄두 폭발을 최대화시킬 수 있습니다.\n소형화 기술의 발달로, 로켓 추진 폭탄을 더욱 빠르게 장전하고 발사할 수 있습니다."
+  fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "열역학 수율 통제 + 소형 선점화 장치"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "초고밀도 슬러그탄은 아무리 강력한 보호막도 뚫고 들어갈 수 있습니다.\n사소한 기술 발전을 개선된 함내 탄약 취급 루틴과 결합해, 발사 속도를 현격하게 개선할 수 있습니다."
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "고밀도 탄약 + 적재 장치 효율성"
