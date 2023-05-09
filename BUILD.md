@@ -1,3 +1,7 @@
+# Making
+
+`./make.py`
+
 # Uploading
 
 ```
