@@ -4,5 +4,5 @@ l_simp_chinese:
   fl_repeatable_improved_military_station_damage_health:0 "同步开火模式 + 强化核心层"
   fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "得益于火箭上的微处理器严格控制的化学反应，现有的弹头可以在爆炸时发挥出最大的威力。\n小型化技术的进步可以让火箭拥有更快的装载与卸货速度。"
   fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "热力学当量控制 + 小型预点火装置"
-  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "超高密度的子弹可以击穿最强大的护盾。\n小小的技术进步加上改良的船只管理规程，可以让发射效率显著提高。"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "超高密度的子弹可以击穿最强大的护盾。\n小小的技术进步加上改良的船只管理规程，可以让射速显著提高。"
   fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "高密度弹药 + 装载效率"
