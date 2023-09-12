@@ -30,7 +30,7 @@ cwp.vanilla_path = os.path.expanduser( os.path.expandvars( "~/stellaris-game" ) 
 
 MOD_NAME = "Combined Repeatable Techs"
 VERSION = "1"
-SUPPORTED_VERSION = "3.8.*"
+SUPPORTED_VERSION = "3.9.*"
 # 3 = unlisted, 2 = hidden, 1 = friends, 0 = public
 VISIBILITY = 0
 
@@ -161,7 +161,7 @@ def process_file(infilename, typeoffile, expectedct, lookfor):
     # Store both names and descs from vanilla techs
     for line in loc:
       for name in lookfor:
-        loc_re = re.compile(fr'^\s*{prefix}_{name}_\S+?(?P<desc>_desc)?:\d\s+"?(?P<string>.+?)"?$')
+        loc_re = re.compile(fr'^\s*{prefix}_{name}_\S+?(?P<desc>_desc)?:\d?\s+"?(?P<string>.+?)"?$')
         matches = re.search(loc_re, line)
         if matches is not None:
           if matches.group("desc") is not None:
