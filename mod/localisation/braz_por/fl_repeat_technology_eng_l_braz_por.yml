@@ -1,6 +1,6 @@
 ﻿# Combined Repeatable Techs
 l_braz_por:
-  fl_repeatable_improved_military_station_damage_health_desc:0 "Conexão interligada de sistemas para disparos em rajadas escalonadas melhora o dano total de Estações Militares ao longo do tempo.\n\n\nCamadas adicionais de blindagem de armadura dentro da estrutura em si melhoram a resiliência das Estações Militares.\n\n"
+  fl_repeatable_improved_military_station_damage_health_desc:0 "Conexão interligada de sistemas para disparos em rajadas escalonadas melhora o dano total de Estações Militares ao longo do tempo.\n\n\nCamadas adicionais de revestimento blindado no interior da própria estrutura melhoram a resiliência das Estações Militares."
   fl_repeatable_improved_military_station_damage_health:0 "Padrões de Disparo Sincronizados + Camadas de Núcleo Fortificadas"
   fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "Com a reação química sendo altamente controlada pelos microprocessadores a bordo de mísseis, detonações de ogivas podem ser ajustadas em busca do efeito máximo para as condições locais no momento do impacto.\n\n\nAvanços na miniaturização permitem um embarque e descarga mais rápidos de cargas de foguetes.\n\n"
   fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "Cessão de Controle Termodinâmico + Pré-Incendiadores Miniaturizados"
