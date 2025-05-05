@@ -1,6 +1,6 @@
 name="Combined Repeatable Techs"
 version="1"
-supported_version="v3.14.*"
+supported_version="v4.0.*"
 tags={
-        "Graphics"
+        "Technologies"
 }

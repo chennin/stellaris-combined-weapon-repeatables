@@ -1,4 +1,4 @@
 ﻿# Combined Repeatable Techs
 l_polish:
-  fl_repeatable_weapon_type_energy_damage_fire_rate_desc:0 "Opanowanie tempa prowadzenia ognia z broni laserowej to zadanie, nad którym najlepsi inżynierowie dowolnej planety mogliby pracować przez wieki.\n\n\nNieustannie dokonuje się nowych odkryć w dziedzinie chłodzenia. Poprawiają one stabilność i skuteczność naszych systemów uzbrojenia, dzięki czemu nie wysadzają one statków, na których je zainstalowano.\n\n"
+  fl_repeatable_weapon_type_energy_damage_fire_rate_desc:0 "Opanowanie tempa prowadzenia ognia z broni laserowej to zadanie, nad którym najlepsi inżynierowie dowolnej planety mogliby pracować przez wieki.\nNieustannie dokonuje się nowych odkryć w dziedzinie chłodzenia. Poprawiają one stabilność i skuteczność naszych systemów uzbrojenia, dzięki czemu nie wysadzają one statków, na których je zainstalowano."
   fl_repeatable_weapon_type_energy_damage_fire_rate:0 "Stanowiska ogniskujące + Szybkie chłodziwo"

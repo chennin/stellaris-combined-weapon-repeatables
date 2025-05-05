@@ -1,8 +1,8 @@
 ﻿# Combined Repeatable Techs
 l_polish:
-  fl_repeatable_improved_military_station_damage_health_desc:0 "Krzyżowe połączenie układów uzbrojenia tak, żeby strzelały długimi salwami, zwiększa uszkodzenia zadawane z czasem przez przez stacje wojskowe.\n\n\nDodatkowe warstwy pancerza w samej strukturze zwiększają wytrzymałość stacji wojskowych.\n\n"
+  fl_repeatable_improved_military_station_damage_health_desc:0 "Krzyżowe połączenie układów uzbrojenia tak, żeby strzelały długimi salwami, zwiększa uszkodzenia zadawane z czasem przez stacje wojskowe.\nDodatkowe warstwy pancerza w samej strukturze zwiększają wytrzymałość stacji wojskowych."
   fl_repeatable_improved_military_station_damage_health:0 "Zsynchronizowane modele ostrzału + Wzmocnione główne warstwy"
-  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "Dzięki temu, że reakcja chemiczna jest ściśle kontrolowana przez pokładowe procesory pocisku, głowice można ustawić tak, żeby wybuchały z maksymalną możliwą mocą w warunkach panujących w chwili trafienia.\n\n\nPostępy miniaturyzacji umożliwiają szybsze ładowanie i wystrzeliwanie pocisków rakietowych.\n\n"
+  fl_repeatable_weapon_type_explosive_damage_fire_rate_desc:0 "Dzięki temu, że reakcja chemiczna jest ściśle kontrolowana przez pokładowe procesory pocisku, głowice można ustawić tak, żeby wybuchały z maksymalną możliwą mocą w warunkach panujących w chwili trafienia.\nPostępy miniaturyzacji umożliwiają szybsze ładowanie i wystrzeliwanie pocisków rakietowych."
   fl_repeatable_weapon_type_explosive_damage_fire_rate:0 "Kontrola przychodu termodynamicznego + Zminiaturyzowane zapalniki"
-  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "Ultragęste pociski mogą przebić nawet najsilniejsze osłony.\n\n\nNiewielkie postępy techniczne połączone z usprawnionymi procedurami posługiwania się uzbrojeniem zapewniają wyraźny wzrost szybkostrzelności.\n\n"
+  fl_repeatable_weapon_type_kinetic_damage_fire_rate_desc:0 "Ultragęste pociski mogą przebić nawet najsilniejsze osłony.\nNiewielkie postępy techniczne połączone z usprawnionymi procedurami posługiwania się uzbrojeniem zapewniają wyraźny wzrost szybkostrzelności."
   fl_repeatable_weapon_type_kinetic_damage_fire_rate:0 "Pociski o dużej gęstości + Wydajność ładowniczego"

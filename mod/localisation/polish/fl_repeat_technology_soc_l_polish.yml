@@ -1,6 +1,6 @@
 ﻿# Combined Repeatable Techs
 l_polish:
-  fl_repeatable_improved_army_damage_health_desc:0 "Powtarzanie standardowej procedury uwarunkowania wojsk lądowych sprawia, że stają się one skuteczniejsze w walce bezpośredniej.\n\n\nDokładna regulacja receptorów bólu umożliwia żołnierzom walkę pomimo kontuzji, które wcześniej spowodowałyby ich unieszkodliwienie.\n\n"
+  fl_repeatable_improved_army_damage_health_desc:0 "Powtarzanie standardowej procedury uwarunkowania wojsk lądowych sprawia, że stają się one skuteczniejsze w walce bezpośredniej.\nDokładna regulacja receptorów bólu umożliwia żołnierzom walkę pomimo kontuzji, które wcześniej spowodowałyby ich unieszkodliwienie."
   fl_repeatable_improved_army_damage_health:0 "Agresywne uwarunkowywanie + Zagłuszacze neurologiczne"
-  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "Zwiększenie szybkości przetwarzania i działania pilotów w oparciu o dane o pozycjach wroga sprawia, że statki szturmowe stają się znacznie skuteczniejsze.\n\n\nGromadząc i analizując dane o wynikach pilotów z przeszłości, poprawiliśmy wykładniczo skuteczność naszych metod szkolenia. Każdy z nich będzie szybszy niż ci, którzy istnieli przed nim."
+  fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate_desc:0 "Zwiększenie szybkości przetwarzania i działania pilotów w oparciu o dane o pozycjach wroga sprawia, że statki szturmowe stają się znacznie skuteczniejsze.\nGromadząc i analizując dane o wynikach pilotów z przeszłości, poprawiliśmy wykładniczo skuteczność naszych metod szkolenia. Każdy z nich będzie szybszy niż ci, którzy istnieli przed nim."
   fl_repeatable_weapon_type_strike_craft_fire_damage_fire_rate:0 "Interceptory synaptyczne + Iteracyjne szkolenie pilotów"
